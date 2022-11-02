@@ -1,0 +1,5 @@
+DoD: 
+when comleting all requriments and testing it, and check the quality of it and its working with no bugs or changes to do.
+
+DoR:
+is moving the user stories from waitng and to - do list to develope it. ex: start coding or designing a user story.
